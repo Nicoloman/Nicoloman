@@ -4,7 +4,7 @@ Hola! Soy Nicolás Lomanto y soy un apasionado por crear. Me gusta programar y e
 
 ## Portfolio
 
-Puedes ver mi portofilio de Fotografia en [nicolaslomanto.myportfolio.com](https://nicolaslomanto.myportfolio.com/), mi portfolio de diseño en [Behance](https://www.behance.net/nicolaslomanto) o puedes [descargar mi CV]().
+Puedes ver mi portofilio de Fotografia en [nicolaslomanto.myportfolio](https://nicolaslomanto.myportfolio.com/), mi portfolio de diseño en [Behance](https://www.behance.net/nicolaslomanto) o puedes [descargar mi CV]().
 
 ## Mis Herramientas
 
